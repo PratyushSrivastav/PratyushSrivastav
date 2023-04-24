@@ -5,7 +5,7 @@
  -->
 ### ABOUT ME 💻
 
-- 🔭 I am Pratyush currently working as an Application Developement Associate at Accenture,India.
+- 🔭 I am Pratyush currently working as an Application Developement Analyst at Accenture,India.
 - 🌱 I’m constantly updating myself on Web-Dev and learning Python.
 - 👯 I’m looking to collaborate on fantastic and self-sustaining tech.
 - 🤔 I’m looking for help with Web-Dev,Java,Python.
